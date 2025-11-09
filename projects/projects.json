@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Customer Behavior Analysis",
+    "desc": "Built an end-to-end DWH using the Medallion Architecture, developing ETL pipelines, star schema models, and SQL dashboards to transform raw data into business insights.",
+    "image": "legal_grievance.jpg",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Priyanka312/customer_behavior_analysis"
+    }
+  },
+  {
+    "name": "ERP–CRM Data Analytical Exploration",
+    "desc": "Performed SQL analysis on combined ERP & CRM datasets, conducting time-series, performance, ranking, and segmentation analyses to uncover customer behavior patterns.",
+    "image": "erp.jpg",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Priyanka312/sql-data-analytics-project/tree/main"
+    }
+  },
+  {
+    "name": "Data Warehouse and Analytics Project",
+    "desc": "Implemented data warehousing and analytics solution using the Medallion Architecture to transform raw data into business-ready insights.",
+    "image": "dwh.png",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Priyanka312/sql-data-warehouse-project"
+    }
+  },
+  {
+    "name": "Image Manipulation with Stable Diffusion",
+    "desc": "Designed a computer-vision pipeline to segment, remove and replace objects in images using YOLO, SAM & Stable Diffusion Inpainting, producing high-resolution of birds & squirrels.",
+    "image": "bird.png",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/"
+    }
+  },
+  {
+    "name": "Analysis of Top YouTube Channels",
+    "desc": "Utilized SQL for data preparation and Power BI for dynamic dashboards, revealing trends, audience insights, and content strategy correlations among top channels.",
+    "image": "youtube.png",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Shashank-Shivakumar/YouTube-Analytics"
+    }
+  },
+  {
+    "name": "Climate Change Forecast",
+    "desc": "Climate Change Prediction in Rio de Janeiro using Seasonal ARIMA Models for time series forecasting, analyzing historical patterns to predict future climate variations.",
+    "image": "climate_change.png",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Shashank-Shivakumar/Climate-Change-Forecast"
+    }
+  }
+]
